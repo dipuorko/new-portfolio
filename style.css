@@ -16,18 +16,21 @@ h1{
     padding: 10px 30px;
     border-radius: 5px;
 }
-section{
-    display: flex;
-}
-.half-width{
-    width: 50%;
-    padding-left: 40px;
-}
-.half-width img{
-    width: 10%;
-    
-}
 .top-banner{
+    display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.dream-big{
+    display: flex;
+}
+    
