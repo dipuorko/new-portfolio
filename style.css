@@ -36,6 +36,7 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position-x: right;
+    margin-bottom: 100px;
 }
 
 .end-part{
@@ -45,6 +46,7 @@ h1{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 100px;
 }
 .ful-stack{
     width: 50%;
@@ -73,4 +75,7 @@ h1{
 }
 h3{
     color: orange;
+}
+footer{
+    text-align: center;
 }
