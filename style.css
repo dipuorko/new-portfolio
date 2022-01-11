@@ -37,4 +37,11 @@ h1{
     background-repeat: no-repeat;
     background-position-x: right;
 }
-    
+
+.end-part{
+    display: flex;
+}
+
+h3{
+    color: orange;
+}
